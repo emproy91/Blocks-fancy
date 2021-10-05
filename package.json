@@ -1,0 +1,11 @@
+{
+  "name": "test-asistensi",
+  "version": "1.0.0",
+  "description": "Funciones en ES6+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mauricio Pérez",
+  "license": "MIT"
+}
